@@ -1,6 +1,6 @@
 import { useUserCount } from "@/lib/app/user"
-import Spinner from "../common/Spinner"
 import Image from "next/image"
+import Spinner from "../common/Spinner"
 
 function Dashboard() {
 	const { userCount: ownerCount, loading: ownerCountLoading } =
@@ -47,7 +47,7 @@ function Dashboard() {
 							src="/host.JPG"
 							className="w-8 h-8"
 							alt="User Badge"
-							width={70}
+							width={80}
 							height={70}
 						/>
 					</span>

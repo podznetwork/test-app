@@ -1,0 +1,17 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "fetch podcasts from rss link",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.13.0",
+    "rss-parser": "^3.12.0",
+    "string-strip-html": "^13.0.6"
+  }
+}

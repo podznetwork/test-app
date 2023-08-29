@@ -1,0 +1,24 @@
+MONGODB_URI=
+DB_NAME=
+SECRET=
+SEED_ADMIN_EMAIL=
+SEED_ADMIN_PASS=
+# Email used to send transactional emails
+FROM_EMAIL=
+NEXT_PUBLIC_WEB_URI=http://localhost:3000
+NEXT_PUBLIC_CLOUDINARY_CLOUD=
+NEXT_PUBLIC_CLOUDINARY_PRESET=
+# Create these CAPTCHA siteKeys in google console 
+NEXT_PUBLIC_RECAPTCHA_SITE_KEY=6LexHwIjAAAAAIILaawdYXFN3Knvbm0nHadVjeiZ
+RECAPTCHA_SECRET_KEY=6LexHwIjAAAAAHnKC5V455ZqjekFc1Dbdt9KDrY5
+# To authenticate with Google. (get from Google Console) - only required to sign in with google 
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+# Create a dev account on PayPal and use the client ID here
+NEXT_PUBLIC_PAYPAL_CLIENT_ID=
+# Create mailchimp account and get the ids
+NEXT_PUBLIC_MAILCHIMP_U=beb7248cf4185513b9fa1eddb
+NEXT_PUBLIC_MAILCHIMP_ID=12c5688c51
+# Create a sendgrid account and get the API key
+SENDGRID_API_KEY=
+

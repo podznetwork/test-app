@@ -1,0 +1,3 @@
+.menubutton {
+	@apply relative h-56 overflow-hidden rounded-lg md:h-[30rem];
+}
